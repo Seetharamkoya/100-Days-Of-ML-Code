@@ -9,6 +9,7 @@ y = Dependent variable
 x1 = Independent variable
 b = Intercept
 b1 = slope
+[ ](https://www.skysilk.com/blog/wp-content/uploads/2018/09/SimpleLinearRegressionEquation.jpg)
 
 
 In this regressionmodel, we are trying to minimize the erros in the prediction by finding the "line of best fit"  - the regression line from the errors would be minimal. we are trying to minimize the length between the observed value (yi) and the predicted value from our model (yp).
