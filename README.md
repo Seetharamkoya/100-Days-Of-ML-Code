@@ -9,3 +9,8 @@ y = Dependent variable
 x1 = Independent variable
 b = Intercept
 b1 = slope
+
+
+In this refressionmodel, we are trying to minimize the erros in the prediction by finding the "line of best fit"  - the regression line from the errors would be minimal. we are trying to minimize the length between the observed value (yi) and the predicted value from our model (yp).
+
+min {sum(yi - yp)^2}
