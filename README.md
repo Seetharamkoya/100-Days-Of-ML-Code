@@ -2,3 +2,10 @@
 ## SIMPLE LINEAR REGRESSION
 Predicting a response using a single feature.
 It is a method to predict dependent variable (Y) based on values of independent variable (X). It is assumed that that the two variable aren linearly related. Hence, we try to find a linear function that predicts the response value(y) as  accuractely as possible as a function of the feature or independent variable(x).
+
+y = b + b1x1
+
+y = Dependent variable
+x1 = Independent variable
+b = Intercept
+b1 = slope
