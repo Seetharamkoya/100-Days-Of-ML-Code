@@ -38,6 +38,8 @@ The Gradient is a vector which gas both magnitude and direction. The first stage
 
 **Hyperparameters** are the parameters whose value is to control the learning process and it has no influence on the performance of the model but effects the speed and quality of the learning process(too small and too large step size).
 
+### Stochastic Gradient Descent
+
 
 
 
