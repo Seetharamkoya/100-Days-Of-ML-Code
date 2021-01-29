@@ -1,12 +1,12 @@
 # Seetharamkoya-100-Days-Of-ML-Code
-## Data Prepocessing
+# Data Prepocessing
 
 
 
 
 
 
-## SIMPLE LINEAR REGRESSION [Code](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/simple_Linear%20Regression.ipynb)
+# SIMPLE LINEAR REGRESSION [Code](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/simple_Linear%20Regression.ipynb)
 Predicting a response using a single feature.
 It is a method to predict dependent variable (Y) based on values of independent variable (X). It is assumed that that the two variable aren linearly related. Hence, we try to find a linear function that predicts the response value(y) as  accuractely as possible as a function of the feature or independent variable(x).
 
@@ -19,3 +19,7 @@ Squared loss (L2 loss) =  the square of the difference between the label and the
                        = (yi - yp)2
                           
 Mean square error(MSE) = 1/N sum((yi - yp)2)
+
+### Reducing the loss - Iterative Approach
+### Gradient Descent
+
