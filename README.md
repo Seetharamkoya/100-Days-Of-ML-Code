@@ -15,7 +15,7 @@
 Predicting a response using a single feature.
 It is a method to predict dependent variable (Y) based on values of independent variable (X). It is assumed that that the two variable aren linearly related. Hence, we try to find a linear function that predicts the response value(Y) as  accuractely as possible as a function of the feature or independent variable(X).
 
-![github-small](https://www.skysilk.com/blog/wp-content/uploads/2018/09/SimpleLinearRegressionEquation.jpg)
+![github-small](https://madhureshkumar.files.wordpress.com/2015/07/regressioncurv.png?w=705)
 
 In this regressionmodel, we are trying to minimize the erros in the prediction by finding the "line of best fit"  - the regression line from the errors would be minimal. we are trying to minimize the length between the observed value (Yi) and the predicted value from our model (Yp).
 
