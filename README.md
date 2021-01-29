@@ -14,8 +14,8 @@ It is a method to predict dependent variable (Y) based on values of independent 
 
 In this regressionmodel, we are trying to minimize the erros in the prediction by finding the "line of best fit"  - the regression line from the errors would be minimal. we are trying to minimize the length between the observed value (yi) and the predicted value from our model (yp).
 
-Squared loss (L2 loss) =  = the square of the difference between the label and the prediction
-                          = (observation - prediction(x))2
-                          = (yi - yp)2
+Squared loss (L2 loss) =  the square of the difference between the label and the prediction\
+                       = (observation - prediction(x))2\
+                       = (yi - yp)2
                           
 Mean square error(MSE) = 1/N sum((yi - yp)2)
