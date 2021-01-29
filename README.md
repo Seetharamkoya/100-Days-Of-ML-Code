@@ -18,7 +18,7 @@ Squared loss (L2 loss) =  the square of the difference between the label and the
                        = (observation - prediction(X))2\
                        = (Yi - Yp)2
                           
-Mean square error(MSE) = 1/N sum((Yi - Yp)2)
+Mean square error (MSE) = 1/N sum((Yi - Yp)2)
 
 ### Reducing the loss - An Iterative Approach
 ![github-small](https://developers.google.com/machine-learning/crash-course/images/GradientDescentDiagram.svg)
