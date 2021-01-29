@@ -22,5 +22,9 @@ Mean square error(MSE) = 1/N sum((yi - yp)2)
 
 ### Reducing the loss - An Iterative Approach
 ![github-small](https://developers.google.com/machine-learning/crash-course/images/GradientDescentDiagram.svg)
+
+The "model" takes the one or more features as input and returns one predictions(yp) as output. To "Compute Loss" part of the model we will use two input values.
+- Yp The model's prediction for features x
+- Y The correct label corresponding to features x.
 ### Gradient Descent
 
