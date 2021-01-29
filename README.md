@@ -28,6 +28,7 @@ The "model" takes the one or more features as input and returns one predictions(
 - Y The correct label corresponding to features x.
 ### Gradient Descent
 The Gradient is a vector which gas both magnitude and direction. The first stage in gradient descent is to pick a staring value for(m/slope/weight) and it could be a random value or zero. The gradient descent algorithm takes a step in the direction of the negative gradient in order to reduce loss as quickly as possible.
+
 ![github-small](https://developers.google.com/machine-learning/crash-course/images/GradientDescentNegativeGradient.svg)
 
 
