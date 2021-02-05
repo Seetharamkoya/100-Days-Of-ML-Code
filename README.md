@@ -38,11 +38,13 @@ The "model" takes the one or more features as input and returns one predictions(
 ### Gradient Descent
 The Gradient is a vector which gas both magnitude and direction. The first stage in gradient descent is to pick a staring value for(m/slope/weight(wi)) and it could be a random value or zero. The gradient descent algorithm takes a step in the direction of the negative gradient in order to reduce loss as quickly as possible. Gradient descent algorithms multiply the gradient by a scalar known as a **learning rate**(step size) to determine the next point.
 
+![github-small](https://spin.atomicobject.com/wp-content/uploads/linear_regression_gradient1.png)
+
+
 ![github-small](https://developers.google.com/machine-learning/crash-course/images/GradientDescentNegativeGradient.svg)
 
 **Hyperparameters** are the parameters whose value is to control the learning process and it has no influence on the performance of the model but effects the speed and quality of the learning process(too small and too large step size).
 
-![github-small](https://spin.atomicobject.com/wp-content/uploads/linear_regression_gradient1.png)
 
 
 
