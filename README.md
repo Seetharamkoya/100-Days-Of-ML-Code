@@ -46,7 +46,7 @@ The Gradient is a vector which gas both magnitude and direction. The first stage
 **Hyperparameters** are the parameters whose value is to control the learning process and it has no influence on the performance of the model but effects the speed and quality of the learning process(too small and too large step size).
 
 ## Classification with logistic regression and support vector machines (SVMs)
-### Classification: it predicts a discrete target label Y
+Classification: it predicts a discrete target label Y
 
 Logistic regression: which is used for binary classification where there are two
 classes.
