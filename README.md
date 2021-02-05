@@ -49,7 +49,7 @@ The Gradient is a vector which gas both magnitude and direction. The first stage
 ### Classification: it predicts a discrete target label Y
 
 Logistic regression: which is used for binary classification where there are two
-classes, keep in mind that classification can performed with any number of categories
+classes.
 
 
 
