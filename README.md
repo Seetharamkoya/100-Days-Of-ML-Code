@@ -4,15 +4,16 @@
 ![github-small](https://camo.githubusercontent.com/9fe7d0c5bc695009af51786bfd406ca73f7b371cb678ee668804b086569cf6a4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53636950792d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d7363697079266c6f676f436f6c6f723d776869746526636f6c6f723d384341414536)
 ![github-small](https://camo.githubusercontent.com/b13a12c010ff1051c318e7ca156e0f3b827a667b59886e89fd4aba2f53d6f507/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5363696b69744c6561726e2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d7363696b69742d6c6561726e266c6f676f436f6c6f723d776869746526636f6c6f723d463739333145)
 ![github-small](https://camo.githubusercontent.com/faefc02a56789ea753692fdbbab144c3ac8f6dc0747cefcc92acb588f407a298/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d54656e736f72466c6f77266c6f676f436f6c6f723d776869746526636f6c6f723d464636463030)
-# Data Prepocessing
+## supervised learning:  regression and classification
+Regression predicts a **continuous target variable Y**\
+Y = f(X) + ε, where X = (x1, x2…xn)\
+Training: machine learns f from labeled training data\
+Test: machine predicts Y from unlabeled testing data\
+## **Supervised learning algorithms:**
 
 
-
-
-
-
-# SIMPLE LINEAR REGRESSION [Code](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/simple_Linear%20Regression.ipynb)
-Predicting a response using a single feature.
+## SIMPLE LINEAR REGRESSION [Code](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/simple_Linear%20Regression.ipynb)
+Linear regression is a parametric method, Predicting a response using a single feature.
 It is a method to predict dependent variable (Y) based on values of independent variable (X). It is assumed that that the two variable aren linearly related. Hence, we try to find a linear function that predicts the response value(Y) as  accuractely as possible as a function of the feature or independent variable(X).
 
 ![github-small](https://madhureshkumar.files.wordpress.com/2015/07/regressioncurv.png?w=705)
@@ -23,7 +24,10 @@ Squared loss (L2 loss) =  the square of the difference between the label and the
                        = (observation - prediction(X))2\
                        = (Yi - Yp)2
                           
-Mean square error (MSE) = 1/N sum((Yi - Yp)2)
+Mean square error (MSE) = 1/N sum((Yi - Yp)2)\
+![github-small](https://spin.atomicobject.com/wp-content/uploads/linear_regression_error1.png)
+
+
 
 ### Reducing the loss - An Iterative Approach
 ![github-small](https://developers.google.com/machine-learning/crash-course/images/GradientDescentDiagram.svg)
@@ -38,7 +42,8 @@ The Gradient is a vector which gas both magnitude and direction. The first stage
 
 **Hyperparameters** are the parameters whose value is to control the learning process and it has no influence on the performance of the model but effects the speed and quality of the learning process(too small and too large step size).
 
-### Stochastic Gradient Descent
+![github-small](https://spin.atomicobject.com/wp-content/uploads/linear_regression_gradient1.png)
+
 
 
 
