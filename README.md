@@ -4,7 +4,7 @@
 ![github-small](https://camo.githubusercontent.com/9fe7d0c5bc695009af51786bfd406ca73f7b371cb678ee668804b086569cf6a4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53636950792d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d7363697079266c6f676f436f6c6f723d776869746526636f6c6f723d384341414536)
 ![github-small](https://camo.githubusercontent.com/b13a12c010ff1051c318e7ca156e0f3b827a667b59886e89fd4aba2f53d6f507/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5363696b69744c6561726e2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d7363696b69742d6c6561726e266c6f676f436f6c6f723d776869746526636f6c6f723d463739333145)
 ![github-small](https://camo.githubusercontent.com/faefc02a56789ea753692fdbbab144c3ac8f6dc0747cefcc92acb588f407a298/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d54656e736f72466c6f77266c6f676f436f6c6f723d776869746526636f6c6f723d464636463030)
-## Data Preprocessing [code](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/Data%20Leakage%20in%20Machine%20Learning.ipynb)/ [code](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/Data%20cleaning%20with%20python.ipynb)
+# Data Preprocessing [code](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/Data%20Leakage%20in%20Machine%20Learning.ipynb)/ [code](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/Data%20cleaning%20with%20python.ipynb)
 
 ![github-small](https://drive.google.com/file/d/1yjfpVg2jaB7WYh4UJYlTmKLLglPCkxva/view?usp=sharing)
 
@@ -20,7 +20,7 @@ Test: machine predicts Y from unlabeled testing data\
 ## **Supervised learning algorithms:**
 
 
-## SIMPLE LINEAR REGRESSION [Code](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/simple_Linear%20Regression.ipynb), [linear_multivariate code](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/linear_reg_multivariate.ipynb),[Hot_Encoding](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/execrcise_one_hot_encoding.ipynb),[train_test_code](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/train_test_split.ipynb)
+# Simple Linear Regression [Code](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/simple_Linear%20Regression.ipynb), [linear_multivariate code](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/linear_reg_multivariate.ipynb),[Hot_Encoding](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/execrcise_one_hot_encoding.ipynb),[train_test_code](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/train_test_split.ipynb)
 Linear regression is a parametric method, Predicting a response using a single feature.
 It is a method to predict dependent variable (Y) based on values of independent variable (X). It is assumed that that the two variable aren linearly related. Hence, we try to find a linear function that predicts the response value(Y) as  accuractely as possible as a function of the feature or independent variable(X).
 
@@ -57,8 +57,12 @@ The Gradient is a vector which gas both magnitude and direction. The first stage
 ## Classification with logistic regression and support vector machines (SVMs)
 Classification: it predicts a discrete target label Y
 
-Logistic regression: which is used for binary classification where there are two
+# Logistic regression
+which is used for binary classification where there are two
 classes.
+
+### Sigmoid or Logit function
+![github-small](https://nickmccullum.com/images/python-machine-learning/introduction-logistic-regression/linear-vs-logistic-regression.png)
 
 
 
