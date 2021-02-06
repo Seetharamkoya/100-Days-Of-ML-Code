@@ -60,7 +60,7 @@ The Gradient is a vector which gas both magnitude and direction. The first stage
 Classification: it predicts a discrete target label Y
 
 # Logistic regression [code_implementation](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/logistic_regression.ipynb)
-which is used for binary classification where there are two
+which is used for **binary classification** where there are two
 classes.
 
 ### Sigmoid or Logit function
