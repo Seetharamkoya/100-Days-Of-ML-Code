@@ -35,7 +35,7 @@ Mean square error (MSE) or Cost function = 1/N sum((Yi - Yp)2)\
 The "model" takes the one or more features as input and returns one predictions(Yp) as output. To "Compute Loss" part of the model we will use two input values.
 - Yp The model's prediction for features x
 - Y The correct label corresponding to features x.
-### Gradient Descent
+### Gradient Descent [code_here](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/Gradient%20descent.ipynb)
 Gradient descent is an algoritham that finds the best fit line for given traing data set.\
 The Gradient is a vector which gas both magnitude and direction. The first stage in gradient descent is to pick a staring value for(m/slope/weight(wi)) and it could be a random value or zero. The gradient descent algorithm takes a step in the direction of the negative gradient in order to reduce loss as quickly as possible. Gradient descent algorithms multiply the gradient by a scalar known as a **learning rate**(step size) to determine the next point.
 
