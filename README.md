@@ -7,7 +7,7 @@
 ## Data Preprocessing
 Data cleaning [code](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/Data%20Leakage%20in%20Machine%20Learning.ipynb)/ [code](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/Data%20cleaning%20with%20python.ipynb)
 
-![github-small](C:\Users\Seetharam\Pictures)
+![github-small](https://drive.google.com/file/d/1yjfpVg2jaB7WYh4UJYlTmKLLglPCkxva/view?usp=sharing)
 
 
 
