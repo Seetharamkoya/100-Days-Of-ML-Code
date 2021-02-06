@@ -21,7 +21,7 @@ Test: machine predicts Y from unlabeled testing data\
 ## **Supervised learning algorithms:**
 
 
-## SIMPLE LINEAR REGRESSION [Code](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/simple_Linear%20Regression.ipynb), [linear_multivariate code](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/linear_reg_multivariate.ipynb),[Hot_Encoding](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/execrcise_one_hot_encoding.ipynb)
+## SIMPLE LINEAR REGRESSION [Code](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/simple_Linear%20Regression.ipynb), [linear_multivariate code](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/linear_reg_multivariate.ipynb),[Hot_Encoding](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/execrcise_one_hot_encoding.ipynb),[train_test_code](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/train_test_split.ipynb)
 Linear regression is a parametric method, Predicting a response using a single feature.
 It is a method to predict dependent variable (Y) based on values of independent variable (X). It is assumed that that the two variable aren linearly related. Hence, we try to find a linear function that predicts the response value(Y) as  accuractely as possible as a function of the feature or independent variable(X).
 
