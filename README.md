@@ -13,7 +13,7 @@ Data cleaning [code](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/m
 
 
 
-## supervised learning:  regression and classification
+## Supervised learning:  regression and classification
 Regression predicts a **continuous target variable Y**\
 Y = f(X) + ε, where X = (x1, x2…xn)\
 Training: machine learns f from labeled training data\
