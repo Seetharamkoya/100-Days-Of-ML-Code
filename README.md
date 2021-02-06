@@ -24,7 +24,7 @@ Squared loss (L2 loss) =  the square of the difference between the label and the
                        = (observation - prediction(X))2\
                        = (Yi - Yp)2
                           
-Mean square error (MSE) = 1/N sum((Yi - Yp)2)\
+Mean square error (MSE) or Cost function = 1/N sum((Yi - Yp)2)\
 ![github-small](https://spin.atomicobject.com/wp-content/uploads/linear_regression_error1.png)
 
 
@@ -36,6 +36,7 @@ The "model" takes the one or more features as input and returns one predictions(
 - Yp The model's prediction for features x
 - Y The correct label corresponding to features x.
 ### Gradient Descent
+Gradient descent is an algoritham that finds the best fit line for given traing data set.\
 The Gradient is a vector which gas both magnitude and direction. The first stage in gradient descent is to pick a staring value for(m/slope/weight(wi)) and it could be a random value or zero. The gradient descent algorithm takes a step in the direction of the negative gradient in order to reduce loss as quickly as possible. Gradient descent algorithms multiply the gradient by a scalar known as a **learning rate**(step size) to determine the next point.
 
 ![github-small](https://spin.atomicobject.com/wp-content/uploads/linear_regression_gradient1.png)
