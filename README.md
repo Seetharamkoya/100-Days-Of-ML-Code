@@ -21,7 +21,7 @@ Test: machine predicts Y from unlabeled testing data\
 
 
 # Simple Linear Regression 
-[Code](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/simple_Linear%20Regression.ipynb), [linear_multivariate code](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/linear_reg_multivariate.ipynb),[Hot_Encoding](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/execrcise_one_hot_encoding.ipynb),[train_test_code](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/train_test_split.ipynb)/
+[Code](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/simple_Linear%20Regression.ipynb),  [linear_multivariate code](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/linear_reg_multivariate.ipynb),  [Hot_Encoding](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/execrcise_one_hot_encoding.ipynb),   [train_test_code](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/train_test_split.ipynb)/
 
 
 Linear regression is a parametric method, Predicting a response using a single feature.
@@ -65,6 +65,8 @@ which is used for binary classification where there are two
 classes.
 
 ### Sigmoid or Logit function
+
+For linear y = m *x + b ,               For Logistic/Sogmoid y = 1 / (1 + e^-(m*x +b) which converts input into range 0 to 1.
 ![github-small](https://nickmccullum.com/images/python-machine-learning/introduction-logistic-regression/linear-vs-logistic-regression.png)
 
 
