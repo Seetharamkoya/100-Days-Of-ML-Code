@@ -68,9 +68,9 @@ classes.
 For linear y = m *x + b ,               For Logistic/Sogmoid y = 1 / (1 + e^-(m*x +b) which converts input into range 0 to 1.
 ![github-small](https://nickmccullum.com/images/python-machine-learning/introduction-logistic-regression/linear-vs-logistic-regression.png)
 
-## Multiclass Classification [Logistic Regression](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/Logistic%20Regression_Multi_regression.ipynb)
+## Multiclass Classification - [Logistic Regression_implimentation](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/Logistic%20Regression_Multi_regression.ipynb)
 
-# Decision Tree
+# Decision Tree Aloritham
 
 
 
