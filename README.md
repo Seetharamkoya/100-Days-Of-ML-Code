@@ -56,7 +56,7 @@ The Gradient is a vector which gas both magnitude and direction. The first stage
 
 **Hyperparameters** are the parameters whose value is to control the learning process and it has no influence on the performance of the model but effects the speed and quality of the learning process(too small and too large step size).
 
-## Classification with logistic regression and support vector machines (SVMs)
+## Classification with logistic regression
 Classification: it predicts a discrete target label Y
 
 # Logistic regression [code_implementation(binary)](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/logistic_regression.ipynb)
@@ -69,6 +69,8 @@ For linear y = m *x + b ,               For Logistic/Sogmoid y = 1 / (1 + e^-(m*
 ![github-small](https://nickmccullum.com/images/python-machine-learning/introduction-logistic-regression/linear-vs-logistic-regression.png)
 
 ## Multiclass Classification [Logistic Regression](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/Logistic%20Regression_Multi_regression.ipynb)
+
+# Decision Tree
 
 
 
