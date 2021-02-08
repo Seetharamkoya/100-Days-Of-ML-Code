@@ -70,7 +70,7 @@ For linear y = m *x + b ,               For Logistic/Sogmoid y = 1 / (1 + e^-(m*
 
 ## Multiclass Classification - [Logistic Regression_implimentation](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/Logistic%20Regression_Multi_regression.ipynb)
 
-# Decision Tree Aloritham
+# Decision Tree Algoritham [Implimentation](https://github.com/Seetharamkoya/100-Days-Of-ML-Code/blob/master/Decision_tree_model.ipynb)
 
 
 
